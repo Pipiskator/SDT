@@ -13,12 +13,12 @@
 
 ## Технологический стек 
 
-# Core AI:
+ Core AI:
 
   * LLM (через API)
 
   * ChromaDB —  векторное хранилище 
 
-# Frontend:
+ Frontend:
 
   * Telegram Bot (python-telegram-bot / aiogram)
